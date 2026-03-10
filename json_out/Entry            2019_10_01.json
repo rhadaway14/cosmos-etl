@@ -1,0 +1,273 @@
+{
+  "ACECRLContactName": "Jessica Stover",
+  "ACECRLContactPhone": "770-852-6829",
+  "ACECRLDISIndicator": "false",
+  "ACECRLMultiCargoDispositions": "false",
+  "ACECRLSplitShipment": "false",
+  "AccelLiqReqInd": "Y",
+  "AceProcessingFlag": "true",
+  "BOLProcRslts": "Y",
+  "BondAmount": "0.0000",
+  "BondAmount1": "0.0000",
+  "BondTypeCode": "8",
+  "BrokerPays4PmtType1": "false",
+  "BuyerID": "0",
+  "CBPSetEstDateArrvl": "false",
+  "CBPSetITDate": "false",
+  "CBPSetImpDate": "false",
+  "CBPSetInBondNum": "false",
+  "CBPSetPortOfEntry": "false",
+  "CBPSetPortUnlading": "false",
+  "CBPSetQuantity": "false",
+  "CBPSetUOM": "false",
+  "CBPSetVFTMnfstNum": "false",
+  "CBPSetVesselName": "false",
+  "Carrier": "HAPAG-LLOYD AMERICA LTD",
+  "ClassCode": [
+    "499",
+    "501"
+  ],
+  "ClientID": "10494",
+  "ClientName": "CAMPBELL SALES GROUP INC",
+  "ClientPays4PmtType1": "false",
+  "ContainerNum": [
+    "HLBU1905976",
+    "CAIU9416670"
+  ],
+  "CreatedBy": "JSTOVER",
+  "CreatedOn": "2020-06-14T14:58:06-04:00",
+  "CreditApproved": "false",
+  "CrncyCode": "USD",
+  "CustTeamNumOverride": "false",
+  "DEF_BYProfileID": "0",
+  "DEF_CntryOrig": "CN",
+  "DEF_ExpCntry": "CN",
+  "DEF_ExpDate": "2019-08-25T00:00:00-04:00",
+  "DEF_FD0": "false",
+  "DEF_LinUltCons": "86-105576800",
+  "DEF_MFGProfileID": "16728",
+  "DEF_MfgID": "CNFOSSHUFOS",
+  "DEF_PortLading": "57078",
+  "DEF_Related": "false",
+  "DEF_UseCol2Rates": "false",
+  "DeclIsImpRec": "false",
+  "DeclMerchIsPurch": "true",
+  "Duty": "3526.5000",
+  "DutyCompCode": [
+    "7",
+    "X"
+  ],
+  "DutyRateStr": "25.00 %",
+  "EXCHFrtChgs": "0.000000",
+  "EXCHFrtChgsDeductible": "0.000000",
+  "ElectedExamSite": "false",
+  "Ent3461ID": [
+    "819942",
+    "819941",
+    "819940",
+    "819939"
+  ],
+  "EntBondBOLID": "122707",
+  "EntContainerID": [
+    "127479",
+    "127480"
+  ],
+  "EntEntityAddressInfoID": [
+    "302956",
+    "302955",
+    "302954",
+    "302953"
+  ],
+  "EntLinConsID": [
+    "134157",
+    "134158"
+  ],
+  "EntLinEntityAddressInfoID": [
+    "280669",
+    "280668",
+    "280667",
+    "280666",
+    "280665",
+    "280664"
+  ],
+  "EntLinTarNumID": [
+    "315542",
+    "315540"
+  ],
+  "EntUserFeesSumID": [
+    "302596",
+    "307361"
+  ],
+  "Ent_RelCertCode": "1",
+  "EntityCode": [
+    "SE",
+    "BY"
+  ],
+  "EntrySummDate": "2019-10-08T00:00:00-04:00",
+  "EntryTypeOverride": "false",
+  "ExporterID": "0",
+  "ExpressNonCons": "false",
+  "FDASentWRelease": "false",
+  "FRGNFrtChgs": "0.0000",
+  "FRGNFrtChgsDeductible": "0.0000",
+  "FRGNInvValue": [
+    "14106.0400",
+    "1159.2000"
+  ],
+  "FrtChgs": "0.0000",
+  "FrtChgsDeductible": "0.0000",
+  "GenOrd": "false",
+  "GrandTotal": "3598.4500",
+  "GrossWt": [
+    "445.00",
+    "5418.00"
+  ],
+  "GrsShipWt": "5863",
+  "HMFAmount": [
+    "1.4500",
+    "17.6300"
+  ],
+  "HsBillNum": "21070I00255",
+  "ISExpressCarrierTrackingNumber": "false",
+  "ImpDate": "2019-10-01T00:00:00-04:00",
+  "ImpID": "10494",
+  "ImpZIP": "28451",
+  "InvQty1": [
+    "88.00",
+    "6.00"
+  ],
+  "IoRQueried": "false",
+  "IssrCodeHsBillNum": "SABC",
+  "IssrCodeMastBillNum": "SABC",
+  "LineNum": [
+    "4",
+    "3",
+    "2",
+    "1"
+  ],
+  "LocnGoods": "L194",
+  "MPFAmount": [
+    "4.0100",
+    "48.8600"
+  ],
+  "MastBillNum": "SZX1907CBAC5",
+  "ModeTrans": "11",
+  "ModifiedBy": "JSTOVER",
+  "ModifiedOn": "2020-08-05T17:22:03.52-04:00",
+  "NoProrateFrtDed": "false",
+  "NoProrateOthXDed": "false",
+  "NoProrateTransChgs": "false",
+  "NoProrateWeight": "false",
+  "NonAMSBOL": "false",
+  "NumLines": "2",
+  "Number": [
+    "21070I00255",
+    "SZX1907CBAC5"
+  ],
+  "OI_Desc": [
+    "ARTICLE OF CHINA,US NTE 20(F)",
+    "ARTICLE OF CHINA,US NTE 20(OO)"
+  ],
+  "OthXDedAmt": "0.0000",
+  "PGADocDeclID": [
+    "13024",
+    "13025"
+  ],
+  "PGAIndividualID": [
+    "82981",
+    "82982"
+  ],
+  "PGAIndividualSecID": [
+    "351800",
+    "351802"
+  ],
+  "PSCExplanation": "EXCLUSION",
+  "PSCHdrReasonCode1": "H99",
+  "PSCInd": "Y",
+  "PctOfTot": [
+    "0.075937",
+    "0.924062"
+  ],
+  "Perishable": "false",
+  "PmtDueDate": "2019-10-08T00:00:00-04:00",
+  "PmtTypeInd": "7",
+  "PortEntry": "1501-010",
+  "PortUnlading": "1501-010",
+  "PrcInclBrk": "false",
+  "PrcInclDty": "false",
+  "PrcInclFrt": "false",
+  "Qty1": [
+    "88.00",
+    "6.00"
+  ],
+  "RateAdValorem": "0.25000000",
+  "RateExch": "0.000000",
+  "RelBondBOLID": "0",
+  "RelType": "ACECRL",
+  "RelUpdActCode": "A",
+  "ReleaseFullBolQty": "false",
+  "ReviewRequired": "false",
+  "ReviewedOn": "1900-01-01T00:00:00-05:00",
+  "SBNum": "62716325",
+  "SBTransID": "127568",
+  "SendAsPlannedPort": "true",
+  "SortOrder": [
+    "1",
+    "2"
+  ],
+  "SplitQuantity": "0",
+  "StateDest": "NC",
+  "SummCertCode": "1",
+  "SuretyCode": "856",
+  "TPLLines": "0",
+  "TPLPages": "0",
+  "TPLStatus": "0",
+  "TarPos": [
+    "1",
+    "0"
+  ],
+  "TotADD": "0.0000",
+  "TotAmt": [
+    "52.8700",
+    "19.0800"
+  ],
+  "TotBondADDDuty": "0.0000",
+  "TotBondCVDDuty": "0.0000",
+  "TotCVD": "0.0000",
+  "TotEstDuty": "3526.5000",
+  "TotEstTax": "0.0000",
+  "TotFees": "71.9500",
+  "TotMnfstQty": "0",
+  "TotPayADDDuty": "0.0000",
+  "TotPayCVDDuty": "0.0000",
+  "Type": [
+    "H",
+    "M"
+  ],
+  "UltConsID": "10494",
+  "UltConsZIP": "28451",
+  "UpdActCode": "R",
+  "UseLineWt": "false",
+  "ValueBeforeOrigDed": [
+    "1159.2000",
+    "14106.0400"
+  ],
+  "WhseBalance": "0.00",
+  "WhseBondedAmt": "0.00",
+  "WhseWithdrawalAmt": "0.00",
+  "hasNotes": "false",
+  "isABI": "false",
+  "isACH": "true",
+  "isAttached": "false",
+  "isComplete": "true",
+  "isLegacyData": "false",
+  "isNoHMF": "false",
+  "isOK2Transmit": "false",
+  "isOneStep": "false",
+  "isRDU": "false",
+  "isReconciliation": "false",
+  "isRelComplete": "true",
+  "isSqueezed": "false",
+  "isTransmitted": "true",
+  "id": "62716325"
+}

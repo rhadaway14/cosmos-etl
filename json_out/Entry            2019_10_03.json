@@ -1,0 +1,247 @@
+{
+  "ACECRLContactName": "Jessica Stover",
+  "ACECRLContactPhone": "770-852-6829",
+  "ACECRLDISIndicator": "false",
+  "ACECRLMultiCargoDispositions": "false",
+  "ACECRLSplitShipment": "false",
+  "AccelLiqReqInd": "Y",
+  "AceProcessingFlag": "true",
+  "BOLProcRslts": "Y",
+  "BondAmount": "0.0000",
+  "BondAmount1": "0.0000",
+  "BondTypeCode": "8",
+  "BrokerPays4PmtType1": "false",
+  "BuyerID": "0",
+  "CBPSetEstDateArrvl": "false",
+  "CBPSetITDate": "false",
+  "CBPSetImpDate": "false",
+  "CBPSetInBondNum": "false",
+  "CBPSetPortOfEntry": "false",
+  "CBPSetPortUnlading": "false",
+  "CBPSetQuantity": "false",
+  "CBPSetUOM": "false",
+  "CBPSetVFTMnfstNum": "false",
+  "CBPSetVesselName": "false",
+  "Carrier": "CANADIAN PACIFIC RAILWAY",
+  "ClassCode": "499",
+  "ClientID": "16985",
+  "ClientName": "VIOLINO USA LTD",
+  "ClientPays4PmtType1": "false",
+  "CreatedBy": "JSTOVER",
+  "CreatedOn": "2020-03-27T16:29:15.697-04:00",
+  "CreditApproved": "false",
+  "CustTeamNumOverride": "false",
+  "DEF_BYProfileID": "0",
+  "DEF_CntryOrig": "CN",
+  "DEF_ExpCntry": "CN",
+  "DEF_ExpDate": "2019-09-08T00:00:00-04:00",
+  "DEF_FD0": "false",
+  "DEF_LinUltCons": "83-208172600",
+  "DEF_MFGProfileID": "7673",
+  "DEF_MfgID": "HKVIOLTD1KOW",
+  "DEF_Related": "false",
+  "DEF_UseCol2Rates": "false",
+  "DeclIsImpRec": "false",
+  "DeclMerchIsPurch": "true",
+  "Duty": "2896.5000",
+  "DutyCompCode": [
+    "X",
+    "7"
+  ],
+  "DutyRateStr": "25.00 %",
+  "EXCHFrtChgs": "0.000000",
+  "EXCHFrtChgsDeductible": "0.000000",
+  "ElectedExamSite": "false",
+  "Ent3461ID": [
+    "777250",
+    "777251",
+    "777252",
+    "777253"
+  ],
+  "EntBondBOLID": "119943",
+  "EntEntityAddressInfoID": [
+    "291264",
+    "291265",
+    "291266",
+    "291267"
+  ],
+  "EntLinConsID": [
+    "127168",
+    "127169"
+  ],
+  "EntLinEntityAddressInfoID": [
+    "266100",
+    "266101",
+    "266102",
+    "266103",
+    "266104",
+    "266105"
+  ],
+  "EntLinTarNumID": [
+    "305013",
+    "305011"
+  ],
+  "EntUserFeesSumID": "296356",
+  "EntityCode": [
+    "BY",
+    "SE"
+  ],
+  "EntrySummDate": "2019-10-10T00:00:00-04:00",
+  "EntryTypeOverride": "false",
+  "ExporterID": "0",
+  "ExpressNonCons": "false",
+  "FDASentWRelease": "false",
+  "FRGNFrtChgs": "0.0000",
+  "FRGNFrtChgsDeductible": "0.0000",
+  "FRGNInvValue": [
+    "3624.8000",
+    "11585.9500"
+  ],
+  "FrtChgs": "0.0000",
+  "FrtChgsDeductible": "0.0000",
+  "GenOrd": "false",
+  "GrandTotal": "2949.1900",
+  "GrossWt": [
+    "3808.00",
+    "1192.00"
+  ],
+  "GrsShipWt": "5000",
+  "ISExpressCarrierTrackingNumber": "false",
+  "ITDate": "2019-10-02T00:00:00-04:00",
+  "ImpDate": "2019-10-02T00:00:00-04:00",
+  "ImpID": "16985",
+  "ImpZIP": "27260",
+  "InBondNum": "V3734594186",
+  "InvQty1": [
+    "13.00",
+    "59.00"
+  ],
+  "IoRQueried": "false",
+  "LineNum": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "LocnGoods": "J554",
+  "MPFAmount": [
+    "40.1300",
+    "12.5600"
+  ],
+  "MastBillNum": "192627309044",
+  "ModeTrans": "21",
+  "ModifiedBy": "JSTOVER",
+  "ModifiedOn": "2020-03-27T16:29:15.697-04:00",
+  "NoProrateFrtDed": "false",
+  "NoProrateOthXDed": "false",
+  "NoProrateTransChgs": "false",
+  "NoProrateWeight": "false",
+  "NonAMSBOL": "false",
+  "NumLines": "2",
+  "Number": [
+    "V3734594186",
+    "192627309044"
+  ],
+  "OthXDedAmt": "0.0000",
+  "PGADocDeclID": [
+    "11573",
+    "11574"
+  ],
+  "PGAIndividualID": [
+    "76530",
+    "76531"
+  ],
+  "PGAIndividualSecID": [
+    "321370",
+    "321374"
+  ],
+  "PSCExplanation": "EXCLUDED UNDER 9903.88.38",
+  "PSCHdrReasonCode1": "H99",
+  "PSCInd": "Y",
+  "PctOfTot": [
+    "0.761694",
+    "0.238305"
+  ],
+  "Perishable": "false",
+  "PmtDueDate": "2019-10-10T00:00:00-04:00",
+  "PmtTypeInd": "7",
+  "PortEntry": "3501-010",
+  "PortUnlading": "3403-010",
+  "PrcInclBrk": "false",
+  "PrcInclDty": "false",
+  "PrcInclFrt": "false",
+  "ProfProdID": [
+    "5677",
+    "5676"
+  ],
+  "Qty1": [
+    "13.00",
+    "59.00"
+  ],
+  "RateAdValorem": "0.25000000",
+  "RateExch": "0.000000",
+  "RelBondBOLID": "0",
+  "RelType": "ACECRL",
+  "RelUpdActCode": "A",
+  "ReleaseFullBolQty": "false",
+  "ReviewRequired": "false",
+  "SBNum": "57995395",
+  "SBTransID": "124733",
+  "SendAsPlannedPort": "true",
+  "SortOrder": [
+    "1",
+    "2"
+  ],
+  "SplitQuantity": "0",
+  "StateDest": "MN",
+  "SummCertCode": "1",
+  "SuretyCode": "677",
+  "TPLLines": "0",
+  "TPLPages": "0",
+  "TPLStatus": "0",
+  "TotADD": "0.0000",
+  "TotAmt": "52.6900",
+  "TotBondADDDuty": "0.0000",
+  "TotBondCVDDuty": "0.0000",
+  "TotCVD": "0.0000",
+  "TotEstDuty": "2896.5000",
+  "TotEstTax": "0.0000",
+  "TotFees": "52.6900",
+  "TotMnfstQty": "0",
+  "TotPayADDDuty": "0.0000",
+  "TotPayCVDDuty": "0.0000",
+  "Type": [
+    "I",
+    "M"
+  ],
+  "UltConsID": "16985",
+  "UltConsZIP": "27260",
+  "UpdActCode": "R",
+  "UseLineWt": "false",
+  "ValueBeforeOrigDed": [
+    "11585.9500",
+    "3624.8000"
+  ],
+  "WhseBalance": "0.00",
+  "WhseBondedAmt": "0.00",
+  "WhseWithdrawalAmt": "0.00",
+  "hasNotes": "false",
+  "isABI": "true",
+  "isACH": "true",
+  "isAttached": "false",
+  "isComplete": "true",
+  "isLegacyData": "false",
+  "isNoHMF": "false",
+  "isOK2Transmit": "false",
+  "isOneStep": "false",
+  "isRDU": "false",
+  "isReconciliation": "false",
+  "isRelComplete": "true",
+  "isSqueezed": "false",
+  "isTransmitted": "true",
+  "prodcode": [
+    "SEATS - NOT EXCLUDED",
+    "SEATS - EXCLUDED"
+  ],
+  "id": "57995395"
+}

@@ -1,0 +1,1393 @@
+<?xml version="1.0" standalone="yes"?>
+<dsdEntry xmlns="http://tempuri.org/dsdEntry.xsd">
+  <Ent3461>
+    <Ent3461ID>819942</Ent3461ID>
+    <IsVerified>false</IsVerified>
+    <Name>CUSTOMS SERVICES &amp; SOLUTIONS INC </Name>
+    <AddrLin1>PO BOX 160                         </AddrLin1>
+    <AddrLin2 xml:space="preserve">                                   </AddrLin2>
+    <City>DOUGLASVILLE         </City>
+    <State>GA       </State>
+    <Country xml:space="preserve">  </Country>
+    <ZIP>30133     </ZIP>
+    <Phone>770-852-6829        </Phone>
+    <EntID>116230</EntID>
+    <EstDateArrvl>2019-10-01T00:00:00-04:00</EstDateArrvl>
+    <EntryDateElect>A</EntryDateElect>
+    <EntryType>01</EntryType>
+    <FilerCode>BII</FilerCode>
+    <EntryNum xml:space="preserve">         </EntryNum>
+    <PortEntry>1501</PortEntry>
+    <BondtypeCode>8</BondtypeCode>
+    <BrokRefNum xml:space="preserve">         </BrokRefNum>
+    <UltConsNum>86-105576800</UltConsNum>
+    <UltConsName>CAMPBELL SALES GROUP INC                          </UltConsName>
+    <UltConsAddrLin1>2118 MERCANTILE DR                 </UltConsAddrLin1>
+    <UltConsAddrLin2 xml:space="preserve">                                   </UltConsAddrLin2>
+    <UltConsCity>LELAND                             </UltConsCity>
+    <UltConsState>NC       </UltConsState>
+    <UltConsCntry xml:space="preserve">  </UltConsCntry>
+    <UltConsZip>28451     </UltConsZip>
+    <ImpNum>86-105576800</ImpNum>
+    <ImpName>CAMPBELL SALES GROUP INC                          </ImpName>
+    <ImpAddrLin1>2118 MERCANTILE DR                 </ImpAddrLin1>
+    <ImpAddrLin2>FREIGHT@LEATHERITALIAUSA.COM       </ImpAddrLin2>
+    <ImpCity>LELAND                             </ImpCity>
+    <ImpState>NC       </ImpState>
+    <ImpCntry>US</ImpCntry>
+    <ImpZip>28451     </ImpZip>
+    <SCAC>HLCU</SCAC>
+    <VFTMnfstNum>043E </VFTMnfstNum>
+    <LocNGoods>L194</LocNGoods>
+    <ImpVesselCode xml:space="preserve">     </ImpVesselCode>
+    <ImpVesselName>NA                  </ImpVesselName>
+    <PortUnlading>1501</PortUnlading>
+    <GenOrdNum xml:space="preserve">            </GenOrdNum>
+    <TotEntVal>15265.0000</TotEntVal>
+    <LineNum>4</LineNum>
+    <CntryOrig>CN</CntryOrig>
+    <MfgID>CNFOSSHUFOS    </MfgID>
+    <TarNum>9401.61.6011</TarNum>
+    <ShipperRefNum xml:space="preserve">                    </ShipperRefNum>
+    <Description>ARTICLE OF CHINA,US NTE 20(F)</Description>
+    <CustTeamNum>038</CustTeamNum>
+    <Signature>CUSTOMS SERVICES &amp; SOLUTIONS INC, ATTY-IN-FACT</Signature>
+    <EntryDate>2019-10-01T00:00:00-04:00</EntryDate>
+    <ReqExamAt />
+    <TransferBy />
+    <CF3461EntryBond>false</CF3461EntryBond>
+    <CF3461CarrierBond>false</CF3461CarrierBond>
+    <CF3461CHLBond>false</CF3461CHLBond>
+    <CF3461CFSBond>false</CF3461CFSBond>
+    <CF3461PairedCitiesReq>false</CF3461PairedCitiesReq>
+    <CF3461Note1 />
+    <CF3461Note2 />
+    <CBPLineNum>2</CBPLineNum>
+  </Ent3461>
+  <Ent3461>
+    <Ent3461ID>819941</Ent3461ID>
+    <IsVerified>false</IsVerified>
+    <Name>CUSTOMS SERVICES &amp; SOLUTIONS INC </Name>
+    <AddrLin1>PO BOX 160                         </AddrLin1>
+    <AddrLin2 xml:space="preserve">                                   </AddrLin2>
+    <City>DOUGLASVILLE         </City>
+    <State>GA       </State>
+    <Country xml:space="preserve">  </Country>
+    <ZIP>30133     </ZIP>
+    <Phone>770-852-6829        </Phone>
+    <EntID>116230</EntID>
+    <EstDateArrvl>2019-10-01T00:00:00-04:00</EstDateArrvl>
+    <EntryDateElect>A</EntryDateElect>
+    <EntryType>01</EntryType>
+    <FilerCode>BII</FilerCode>
+    <EntryNum xml:space="preserve">         </EntryNum>
+    <PortEntry>1501</PortEntry>
+    <BondtypeCode>8</BondtypeCode>
+    <BrokRefNum xml:space="preserve">         </BrokRefNum>
+    <UltConsNum>86-105576800</UltConsNum>
+    <UltConsName>CAMPBELL SALES GROUP INC                          </UltConsName>
+    <UltConsAddrLin1>2118 MERCANTILE DR                 </UltConsAddrLin1>
+    <UltConsAddrLin2 xml:space="preserve">                                   </UltConsAddrLin2>
+    <UltConsCity>LELAND                             </UltConsCity>
+    <UltConsState>NC       </UltConsState>
+    <UltConsCntry xml:space="preserve">  </UltConsCntry>
+    <UltConsZip>28451     </UltConsZip>
+    <ImpNum>86-105576800</ImpNum>
+    <ImpName>CAMPBELL SALES GROUP INC                          </ImpName>
+    <ImpAddrLin1>2118 MERCANTILE DR                 </ImpAddrLin1>
+    <ImpAddrLin2>FREIGHT@LEATHERITALIAUSA.COM       </ImpAddrLin2>
+    <ImpCity>LELAND                             </ImpCity>
+    <ImpState>NC       </ImpState>
+    <ImpCntry>US</ImpCntry>
+    <ImpZip>28451     </ImpZip>
+    <SCAC>HLCU</SCAC>
+    <VFTMnfstNum>043E </VFTMnfstNum>
+    <LocNGoods>L194</LocNGoods>
+    <ImpVesselCode xml:space="preserve">     </ImpVesselCode>
+    <ImpVesselName>NA                  </ImpVesselName>
+    <PortUnlading>1501</PortUnlading>
+    <GenOrdNum xml:space="preserve">            </GenOrdNum>
+    <TotEntVal>15265.0000</TotEntVal>
+    <LineNum>3</LineNum>
+    <CntryOrig>CN</CntryOrig>
+    <MfgID>CNFOSSHUFOS    </MfgID>
+    <TarNum>9903.88.03  </TarNum>
+    <ShipperRefNum xml:space="preserve">                    </ShipperRefNum>
+    <Description>ARTICLE OF CHINA,US NTE 20(F)</Description>
+    <CustTeamNum>038</CustTeamNum>
+    <Signature>CUSTOMS SERVICES &amp; SOLUTIONS INC, ATTY-IN-FACT</Signature>
+    <EntryDate>2019-10-01T00:00:00-04:00</EntryDate>
+    <ReqExamAt />
+    <TransferBy />
+    <CF3461EntryBond>false</CF3461EntryBond>
+    <CF3461CarrierBond>false</CF3461CarrierBond>
+    <CF3461CHLBond>false</CF3461CHLBond>
+    <CF3461CFSBond>false</CF3461CFSBond>
+    <CF3461PairedCitiesReq>false</CF3461PairedCitiesReq>
+    <CF3461Note1 />
+    <CF3461Note2 />
+    <CBPLineNum>2</CBPLineNum>
+  </Ent3461>
+  <Ent3461>
+    <Ent3461ID>819940</Ent3461ID>
+    <IsVerified>false</IsVerified>
+    <Name>CUSTOMS SERVICES &amp; SOLUTIONS INC </Name>
+    <AddrLin1>PO BOX 160                         </AddrLin1>
+    <AddrLin2 xml:space="preserve">                                   </AddrLin2>
+    <City>DOUGLASVILLE         </City>
+    <State>GA       </State>
+    <Country xml:space="preserve">  </Country>
+    <ZIP>30133     </ZIP>
+    <Phone>770-852-6829        </Phone>
+    <EntID>116230</EntID>
+    <EstDateArrvl>2019-10-01T00:00:00-04:00</EstDateArrvl>
+    <EntryDateElect>A</EntryDateElect>
+    <EntryType>01</EntryType>
+    <FilerCode>BII</FilerCode>
+    <EntryNum xml:space="preserve">         </EntryNum>
+    <PortEntry>1501</PortEntry>
+    <BondtypeCode>8</BondtypeCode>
+    <BrokRefNum xml:space="preserve">         </BrokRefNum>
+    <UltConsNum>86-105576800</UltConsNum>
+    <UltConsName>CAMPBELL SALES GROUP INC                          </UltConsName>
+    <UltConsAddrLin1>2118 MERCANTILE DR                 </UltConsAddrLin1>
+    <UltConsAddrLin2 xml:space="preserve">                                   </UltConsAddrLin2>
+    <UltConsCity>LELAND                             </UltConsCity>
+    <UltConsState>NC       </UltConsState>
+    <UltConsCntry xml:space="preserve">  </UltConsCntry>
+    <UltConsZip>28451     </UltConsZip>
+    <ImpNum>86-105576800</ImpNum>
+    <ImpName>CAMPBELL SALES GROUP INC                          </ImpName>
+    <ImpAddrLin1>2118 MERCANTILE DR                 </ImpAddrLin1>
+    <ImpAddrLin2>FREIGHT@LEATHERITALIAUSA.COM       </ImpAddrLin2>
+    <ImpCity>LELAND                             </ImpCity>
+    <ImpState>NC       </ImpState>
+    <ImpCntry>US</ImpCntry>
+    <ImpZip>28451     </ImpZip>
+    <SCAC>HLCU</SCAC>
+    <VFTMnfstNum>043E </VFTMnfstNum>
+    <LocNGoods>L194</LocNGoods>
+    <ImpVesselCode xml:space="preserve">     </ImpVesselCode>
+    <ImpVesselName>NA                  </ImpVesselName>
+    <PortUnlading>1501</PortUnlading>
+    <GenOrdNum xml:space="preserve">            </GenOrdNum>
+    <TotEntVal>15265.0000</TotEntVal>
+    <LineNum>2</LineNum>
+    <Type>H</Type>
+    <Number>21070I00255 </Number>
+    <Quantity>94</Quantity>
+    <UOM>PCS  </UOM>
+    <CntryOrig>CN</CntryOrig>
+    <MfgID>CNFOSSHUFOS    </MfgID>
+    <TarNum>9401.61.4011</TarNum>
+    <ShipperRefNum xml:space="preserve">                    </ShipperRefNum>
+    <Description>ARTICLE OF CHINA,US NTE 20(OO)</Description>
+    <CustTeamNum>038</CustTeamNum>
+    <Signature>CUSTOMS SERVICES &amp; SOLUTIONS INC, ATTY-IN-FACT</Signature>
+    <EntryDate>2019-10-01T00:00:00-04:00</EntryDate>
+    <IssrCodeMastBillNum>SABC</IssrCodeMastBillNum>
+    <ReqExamAt />
+    <TransferBy />
+    <CF3461EntryBond>false</CF3461EntryBond>
+    <CF3461CarrierBond>false</CF3461CarrierBond>
+    <CF3461CHLBond>false</CF3461CHLBond>
+    <CF3461CFSBond>false</CF3461CFSBond>
+    <CF3461PairedCitiesReq>false</CF3461PairedCitiesReq>
+    <CF3461Note1 />
+    <CF3461Note2 />
+    <CBPLineNum>1</CBPLineNum>
+  </Ent3461>
+  <Ent3461>
+    <Ent3461ID>819939</Ent3461ID>
+    <IsVerified>false</IsVerified>
+    <Name>CUSTOMS SERVICES &amp; SOLUTIONS INC </Name>
+    <AddrLin1>PO BOX 160                         </AddrLin1>
+    <AddrLin2 xml:space="preserve">                                   </AddrLin2>
+    <City>DOUGLASVILLE         </City>
+    <State>GA       </State>
+    <Country xml:space="preserve">  </Country>
+    <ZIP>30133     </ZIP>
+    <Phone>770-852-6829        </Phone>
+    <EntID>116230</EntID>
+    <EstDateArrvl>2019-10-01T00:00:00-04:00</EstDateArrvl>
+    <EntryDateElect>A</EntryDateElect>
+    <EntryType>01</EntryType>
+    <FilerCode>BII</FilerCode>
+    <EntryNum xml:space="preserve">         </EntryNum>
+    <PortEntry>1501</PortEntry>
+    <BondtypeCode>8</BondtypeCode>
+    <BrokRefNum xml:space="preserve">         </BrokRefNum>
+    <UltConsNum>86-105576800</UltConsNum>
+    <UltConsName>CAMPBELL SALES GROUP INC                          </UltConsName>
+    <UltConsAddrLin1>2118 MERCANTILE DR                 </UltConsAddrLin1>
+    <UltConsAddrLin2 xml:space="preserve">                                   </UltConsAddrLin2>
+    <UltConsCity>LELAND                             </UltConsCity>
+    <UltConsState>NC       </UltConsState>
+    <UltConsCntry xml:space="preserve">  </UltConsCntry>
+    <UltConsZip>28451     </UltConsZip>
+    <ImpNum>86-105576800</ImpNum>
+    <ImpName>CAMPBELL SALES GROUP INC                          </ImpName>
+    <ImpAddrLin1>2118 MERCANTILE DR                 </ImpAddrLin1>
+    <ImpAddrLin2>FREIGHT@LEATHERITALIAUSA.COM       </ImpAddrLin2>
+    <ImpCity>LELAND                             </ImpCity>
+    <ImpState>NC       </ImpState>
+    <ImpCntry>US</ImpCntry>
+    <ImpZip>28451     </ImpZip>
+    <SCAC>HLCU</SCAC>
+    <VFTMnfstNum>043E </VFTMnfstNum>
+    <LocNGoods>L194</LocNGoods>
+    <ImpVesselCode xml:space="preserve">     </ImpVesselCode>
+    <ImpVesselName>NA                  </ImpVesselName>
+    <PortUnlading>1501</PortUnlading>
+    <GenOrdNum xml:space="preserve">            </GenOrdNum>
+    <TotEntVal>15265.0000</TotEntVal>
+    <LineNum>1</LineNum>
+    <Type>M</Type>
+    <Number>SZX1907CBAC5</Number>
+    <CntryOrig>CN</CntryOrig>
+    <MfgID>CNFOSSHUFOS    </MfgID>
+    <TarNum>9903.88.36  </TarNum>
+    <ShipperRefNum xml:space="preserve">                    </ShipperRefNum>
+    <Description>ARTICLE OF CHINA,US NTE 20(OO)</Description>
+    <CustTeamNum>038</CustTeamNum>
+    <Signature>CUSTOMS SERVICES &amp; SOLUTIONS INC, ATTY-IN-FACT</Signature>
+    <EntryDate>2019-10-01T00:00:00-04:00</EntryDate>
+    <IssrCodeMastBillNum>HLCU</IssrCodeMastBillNum>
+    <ReqExamAt />
+    <TransferBy />
+    <CF3461EntryBond>false</CF3461EntryBond>
+    <CF3461CarrierBond>false</CF3461CarrierBond>
+    <CF3461CHLBond>false</CF3461CHLBond>
+    <CF3461CFSBond>false</CF3461CFSBond>
+    <CF3461PairedCitiesReq>false</CF3461PairedCitiesReq>
+    <CF3461Note1 />
+    <CF3461Note2 />
+    <CBPLineNum>1</CBPLineNum>
+  </Ent3461>
+  <EntBondBOL>
+    <ServerID>1</ServerID>
+    <EntBondBOLID>122707</EntBondBOLID>
+    <EntID>116230</EntID>
+    <RelID>0</RelID>
+    <RelBondBOLID>0</RelBondBOLID>
+    <InBondNum xml:space="preserve">            </InBondNum>
+    <MastBillNum>SZX1907CBAC5</MastBillNum>
+    <HsBillNum>21070I00255 </HsBillNum>
+    <SubHsBillNum xml:space="preserve">            </SubHsBillNum>
+    <Quantity>94</Quantity>
+    <UOM>PCS  </UOM>
+    <IssrCodeMastBillNum>HLCU</IssrCodeMastBillNum>
+    <IssrCodeHsBillNum>SABC</IssrCodeHsBillNum>
+    <ReleaseCode xml:space="preserve"> </ReleaseCode>
+    <SplitQuantity>0</SplitQuantity>
+    <ReleaseFullBolQty>false</ReleaseFullBolQty>
+    <ISExpressCarrierTrackingNumber>false</ISExpressCarrierTrackingNumber>
+    <ElectedExamSite>false</ElectedExamSite>
+    <ElectedExamSiteFirms xml:space="preserve">    </ElectedExamSiteFirms>
+    <ExpressNonCons>false</ExpressNonCons>
+    <NonAMSBOL>false</NonAMSBOL>
+    <Perishable>false</Perishable>
+    <GenOrdNum xml:space="preserve">                    </GenOrdNum>
+    <GenOrd>false</GenOrd>
+    <CBPSetQuantity>false</CBPSetQuantity>
+    <CBPSetUOM>false</CBPSetUOM>
+    <CBPSetInBondNum>false</CBPSetInBondNum>
+    <CBPSetITDate>false</CBPSetITDate>
+  </EntBondBOL>
+  <EntContainers>
+    <EntID>116230</EntID>
+    <ServerID>1</ServerID>
+    <EntContainerID>127479</EntContainerID>
+    <ContainerNum>HLBU1905976         </ContainerNum>
+  </EntContainers>
+  <EntContainers>
+    <EntID>116230</EntID>
+    <ServerID>1</ServerID>
+    <EntContainerID>127480</EntContainerID>
+    <ContainerNum>CAIU9416670         </ContainerNum>
+  </EntContainers>
+  <EntEntity>
+    <ServerID>1</ServerID>
+    <EntID>116230</EntID>
+    <EntEntityID>300131</EntEntityID>
+    <EntityCode>SE</EntityCode>
+    <Name>FOSHAN SHUNDE DONGMIN FURNITURE</Name>
+    <IDQualifier />
+    <IDValue xml:space="preserve">            </IDValue>
+    <City>FOSHAN</City>
+    <CountrySubCode>GUA</CountrySubCode>
+    <Country>CN</Country>
+    <PostalCode />
+    <EntityProfileID>16728</EntityProfileID>
+  </EntEntity>
+  <EntEntity>
+    <ServerID>1</ServerID>
+    <EntID>116230</EntID>
+    <EntEntityID>300130</EntEntityID>
+    <EntityCode>MF</EntityCode>
+    <Name>FOSHAN SHUNDE DONGMIN FURNITURE</Name>
+    <IDQualifier />
+    <IDValue>CNFOSSHUFOS</IDValue>
+    <City>FOSHAN</City>
+    <CountrySubCode>GUA</CountrySubCode>
+    <Country>CN</Country>
+    <PostalCode />
+    <EntityProfileID>16728</EntityProfileID>
+  </EntEntity>
+  <EntEntity>
+    <ServerID>1</ServerID>
+    <EntID>116230</EntID>
+    <EntEntityID>300129</EntEntityID>
+    <EntityCode>CN</EntityCode>
+    <Name>CAMPBELL SALES GROUP INC</Name>
+    <IDQualifier>EI</IDQualifier>
+    <IDValue>86-105576800</IDValue>
+    <City>LELAND</City>
+    <CountrySubCode>NC</CountrySubCode>
+    <Country>US</Country>
+    <PostalCode>28451</PostalCode>
+    <EntityProfileID>10494</EntityProfileID>
+  </EntEntity>
+  <EntEntity>
+    <ServerID>1</ServerID>
+    <EntID>116230</EntID>
+    <EntEntityID>300128</EntEntityID>
+    <EntityCode>BY</EntityCode>
+    <Name>CAMPBELL SALES GROUP INC</Name>
+    <IDQualifier>EI</IDQualifier>
+    <IDValue>86-105576800</IDValue>
+    <City>LELAND</City>
+    <CountrySubCode>NC</CountrySubCode>
+    <Country>US</Country>
+    <PostalCode>28451</PostalCode>
+    <EntityProfileID>10494</EntityProfileID>
+  </EntEntity>
+  <EntEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntEntityID>300131</EntEntityID>
+    <EntEntityAddressInfoID>302956</EntEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>XIANTANG INDUSTRY</AddressInfo>
+  </EntEntityAddressInfo>
+  <EntEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntEntityID>300130</EntEntityID>
+    <EntEntityAddressInfoID>302955</EntEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>XIANTANG INDUSTRY</AddressInfo>
+  </EntEntityAddressInfo>
+  <EntEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntEntityID>300129</EntEntityID>
+    <EntEntityAddressInfoID>302954</EntEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>2118 MERCANTILE DR</AddressInfo>
+  </EntEntityAddressInfo>
+  <EntEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntEntityID>300128</EntEntityID>
+    <EntEntityAddressInfoID>302953</EntEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>2118 MERCANTILE DR</AddressInfo>
+  </EntEntityAddressInfo>
+  <EntHeader>
+    <ServerID>1</ServerID>
+    <EntID>116230</EntID>
+    <RelID>0</RelID>
+    <SBNum>62716325</SBNum>
+    <UpdActCode>R</UpdActCode>
+    <ClientID>10494</ClientID>
+    <ClientShortName xml:space="preserve">          </ClientShortName>
+    <ClientName>CAMPBELL SALES GROUP INC                          </ClientName>
+    <PortEntry>1501-010</PortEntry>
+    <ImpID>10494</ImpID>
+    <ImpNum>86-105576800</ImpNum>
+    <ImpName>CAMPBELL SALES GROUP INC                          </ImpName>
+    <ImpAddrLin1>2118 MERCANTILE DR                 </ImpAddrLin1>
+    <ImpAddrLin2>FREIGHT@LEATHERITALIAUSA.COM       </ImpAddrLin2>
+    <ImpCity>LELAND                             </ImpCity>
+    <ImpState>NC       </ImpState>
+    <ImpCntry>US</ImpCntry>
+    <ImpZIP>28451     </ImpZIP>
+    <UltConsID>10494</UltConsID>
+    <UltConsNum>86-105576800</UltConsNum>
+    <UltConsName>CAMPBELL SALES GROUP INC                          </UltConsName>
+    <UltConsAddrLin1>2118 MERCANTILE DR                 </UltConsAddrLin1>
+    <UltConsAddrLin2 xml:space="preserve">                                   </UltConsAddrLin2>
+    <UltConsCity>LELAND                             </UltConsCity>
+    <UltConsState>NC       </UltConsState>
+    <UltConsCntry xml:space="preserve">  </UltConsCntry>
+    <UltConsZIP>28451     </UltConsZIP>
+    <CF4811RefNum xml:space="preserve">            </CF4811RefNum>
+    <LiveEntInd xml:space="preserve"> </LiveEntInd>
+    <BondTypeCode>8</BondTypeCode>
+    <BondAmount>0.0000</BondAmount>
+    <BondAcctNum xml:space="preserve">          </BondAcctNum>
+    <AIIInd xml:space="preserve"> </AIIInd>
+    <FilerCode>BII</FilerCode>
+    <EntryNum xml:space="preserve">         </EntryNum>
+    <EntryType>01</EntryType>
+    <EntryTypeOverride>false</EntryTypeOverride>
+    <SuretyCode>856</SuretyCode>
+    <StateDest>NC</StateDest>
+    <OGALineRelInd xml:space="preserve"> </OGALineRelInd>
+    <ImpVesselCode xml:space="preserve">     </ImpVesselCode>
+    <ImpVesselName>NA                  </ImpVesselName>
+    <ModeTrans>11</ModeTrans>
+    <PortUnlading>1501-010</PortUnlading>
+    <ImpDate>2019-10-01T00:00:00-04:00</ImpDate>
+    <BrokRefNum xml:space="preserve">         </BrokRefNum>
+    <CliBranchDes xml:space="preserve">  </CliBranchDes>
+    <VFTMnfstNum>043E </VFTMnfstNum>
+    <EstDateArrvl>2019-10-01T00:00:00-04:00</EstDateArrvl>
+    <EntryDate>2019-10-01T00:00:00-04:00</EntryDate>
+    <EntrySummDate>2019-10-08T00:00:00-04:00</EntrySummDate>
+    <LocnGoods>L194</LocnGoods>
+    <WhsFilerCode xml:space="preserve">   </WhsFilerCode>
+    <WhsEntryNum xml:space="preserve">         </WhsEntryNum>
+    <WhsPortCode xml:space="preserve">    </WhsPortCode>
+    <FinalWhsInd xml:space="preserve"> </FinalWhsInd>
+    <SummCertCode>1</SummCertCode>
+    <RelCertCode xml:space="preserve"> </RelCertCode>
+    <ConsInfInd xml:space="preserve"> </ConsInfInd>
+    <ExamPort xml:space="preserve">    </ExamPort>
+    <PmtTypeInd>7</PmtTypeInd>
+    <PmtDueDate>2019-10-08T00:00:00-04:00</PmtDueDate>
+    <GenOrdNum xml:space="preserve">            </GenOrdNum>
+    <FrtChgs>0.0000</FrtChgs>
+    <FrtChgsDeductible>0.0000</FrtChgsDeductible>
+    <GrsShipWt>5863</GrsShipWt>
+    <SCAC>HLCU</SCAC>
+    <Carrier>HAPAG-LLOYD AMERICA LTD            </Carrier>
+    <CustTeamNum>038</CustTeamNum>
+    <TotMnfstQty>0</TotMnfstQty>
+    <TotBondADDDuty>0.0000</TotBondADDDuty>
+    <ADDBondInd>false</ADDBondInd>
+    <TotPayADDDuty>0.0000</TotPayADDDuty>
+    <TotBondCVDDuty>0.0000</TotBondCVDDuty>
+    <CVDBondInd>false</CVDBondInd>
+    <TotPayCVDDuty>0.0000</TotPayCVDDuty>
+    <ADDCVDSuretyCode xml:space="preserve">   </ADDCVDSuretyCode>
+    <TotEstDuty>3526.5000</TotEstDuty>
+    <TotEstTax>0.0000</TotEstTax>
+    <DefTaxInd xml:space="preserve"> </DefTaxInd>
+    <TotCVD>0.0000</TotCVD>
+    <TotADD>0.0000</TotADD>
+    <TotFees>71.9500</TotFees>
+    <TotEntVal>15265.0000</TotEntVal>
+    <GrandTotal>3598.4500</GrandTotal>
+    <NumLines>2</NumLines>
+    <PrcInclDty>false</PrcInclDty>
+    <PrcInclFrt>false</PrcInclFrt>
+    <PrcInclBrk>false</PrcInclBrk>
+    <DEF_TreatedWdPck xml:space="preserve"> </DEF_TreatedWdPck>
+    <DEF_ExpDate>2019-08-25T00:00:00-04:00</DEF_ExpDate>
+    <DEF_ExpCntry>CN</DEF_ExpCntry>
+    <DEF_Related>false</DEF_Related>
+    <DEF_UseCol2Rates>false</DEF_UseCol2Rates>
+    <isAttached>false</isAttached>
+    <isABI>false</isABI>
+    <isComplete>true</isComplete>
+    <isOK2Transmit>false</isOK2Transmit>
+    <isTransmitted>true</isTransmitted>
+    <CreatedOn>2020-06-14T14:58:06-04:00</CreatedOn>
+    <CreatedBy>JSTOVER             </CreatedBy>
+    <ModifiedOn>2020-08-05T17:22:03.52-04:00</ModifiedOn>
+    <ModifiedBy>JSTOVER             </ModifiedBy>
+    <DEF_MfgID>CNFOSSHUFOS    </DEF_MfgID>
+    <DeclIsImpRec>false</DeclIsImpRec>
+    <DeclMerchIsPurch>true</DeclMerchIsPurch>
+    <Signature>CUSTOMS SERVICES &amp; SOLUTIONS INC, ATTY-IN-FACT</Signature>
+    <CustTeamNumOverride>false</CustTeamNumOverride>
+    <Notes />
+    <hasNotes>false</hasNotes>
+    <isLegacyData>false</isLegacyData>
+    <RelType>ACECRL    </RelType>
+    <RelUpdActCode>A</RelUpdActCode>
+    <BOLProcRslts>Y</BOLProcRslts>
+    <OGACodes xml:space="preserve"> </OGACodes>
+    <ConsNameAddr xml:space="preserve"> </ConsNameAddr>
+    <EntryDateElect>A</EntryDateElect>
+    <EntryImmDlvInd xml:space="preserve"> </EntryImmDlvInd>
+    <DEF_FDAActualMfgID xml:space="preserve">               </DEF_FDAActualMfgID>
+    <DEF_FDAActualShipper xml:space="preserve">               </DEF_FDAActualShipper>
+    <DEF_FDACntryOrig xml:space="preserve">  </DEF_FDACntryOrig>
+    <CrncyCode>USD</CrncyCode>
+    <RateExch>0.000000</RateExch>
+    <FRGNFrtChgs>0.0000</FRGNFrtChgs>
+    <FRGNFrtChgsDeductible>0.0000</FRGNFrtChgsDeductible>
+    <CRNCFrtChgs xml:space="preserve">   </CRNCFrtChgs>
+    <EXCHFrtChgs>0.000000</EXCHFrtChgs>
+    <CRNCFrtChgsDeductible xml:space="preserve">   </CRNCFrtChgsDeductible>
+    <EXCHFrtChgsDeductible>0.000000</EXCHFrtChgsDeductible>
+    <FDASentWRelease>false</FDASentWRelease>
+    <isRelComplete>true</isRelComplete>
+    <Ent_RelCertCode>1</Ent_RelCertCode>
+    <DEF_LinUltCons>86-105576800</DEF_LinUltCons>
+    <ShipperRefNum xml:space="preserve">                    </ShipperRefNum>
+    <ReqExamAt />
+    <TransferBy />
+    <CF3461EntryBond>false</CF3461EntryBond>
+    <CF3461CarrierBond>false</CF3461CarrierBond>
+    <CF3461CHLBond>false</CF3461CHLBond>
+    <CF3461CFSBond>false</CF3461CFSBond>
+    <CF3461PairedCitiesReq>false</CF3461PairedCitiesReq>
+    <isACH>true</isACH>
+    <DEF_PortLading>57078</DEF_PortLading>
+    <SBTransID>127568</SBTransID>
+    <DEF_IssrCodeMastBillNum xml:space="preserve">    </DEF_IssrCodeMastBillNum>
+    <DEF_InBondNum xml:space="preserve">            </DEF_InBondNum>
+    <DEF_MastBillNum xml:space="preserve">            </DEF_MastBillNum>
+    <DEF_HsBillNum xml:space="preserve">            </DEF_HsBillNum>
+    <DEF_SubHsBillNum xml:space="preserve">            </DEF_SubHsBillNum>
+    <isNoHMF>false</isNoHMF>
+    <UseLineWt>false</UseLineWt>
+    <WhseBondedAmt>0.00</WhseBondedAmt>
+    <WhseWithdrawalAmt>0.00</WhseWithdrawalAmt>
+    <WhseBalance>0.00</WhseBalance>
+    <isReconciliation>false</isReconciliation>
+    <ReconInd xml:space="preserve">   </ReconInd>
+    <NoProrateFrtDed>false</NoProrateFrtDed>
+    <NoProrateOthXDed>false</NoProrateOthXDed>
+    <NoProrateWeight>false</NoProrateWeight>
+    <NoProrateTransChgs>false</NoProrateTransChgs>
+    <OthXDedAmt>0.0000</OthXDedAmt>
+    <DEF_CntryOrig>CN</DEF_CntryOrig>
+    <CF3461Block4 />
+    <FTZLotNum />
+    <TPLStatus>0</TPLStatus>
+    <isSqueezed>false</isSqueezed>
+    <ExporterID>0</ExporterID>
+    <BuyerID>0</BuyerID>
+    <TPLPages>0</TPLPages>
+    <TPLLines>0</TPLLines>
+    <IoRQueried>false</IoRQueried>
+    <DEF_FD0>false</DEF_FD0>
+    <ABIPrepPort xml:space="preserve">        </ABIPrepPort>
+    <ABIPrepOffice xml:space="preserve">  </ABIPrepOffice>
+    <ABIProcPort xml:space="preserve">        </ABIProcPort>
+    <ABIProcOffice xml:space="preserve">  </ABIProcOffice>
+    <StmtNum xml:space="preserve">           </StmtNum>
+    <CreditApproved>false</CreditApproved>
+    <CreditCode />
+    <ReviewRequired>false</ReviewRequired>
+    <ReviewDetails />
+    <ReviewedOn>1900-01-01T00:00:00-05:00</ReviewedOn>
+    <ReviewedBy />
+    <ClientPays4PmtType1>false</ClientPays4PmtType1>
+    <BrokerPays4PmtType1>false</BrokerPays4PmtType1>
+    <DEF_FirstSale xml:space="preserve"> </DEF_FirstSale>
+    <AceProcessingFlag>true</AceProcessingFlag>
+    <LLoydsCode />
+    <PSCInd>Y</PSCInd>
+    <AccelLiqReqInd>Y</AccelLiqReqInd>
+    <PSCHdrReasonCode1>H99</PSCHdrReasonCode1>
+    <PSCHdrReasonCode2 />
+    <PSCHdrReasonCode3 />
+    <PSCHdrReasonCode4 />
+    <PSCHdrReasonCode5 />
+    <PSCExplanation>EXCLUSION</PSCExplanation>
+    <BondWaiverInd xml:space="preserve"> </BondWaiverInd>
+    <BondWaiverReasonCode />
+    <DEF_AffirmComplCode xml:space="preserve">   </DEF_AffirmComplCode>
+    <DEF_AffirmComplQual xml:space="preserve">                         </DEF_AffirmComplQual>
+    <ACECRLContactName>Jessica Stover</ACECRLContactName>
+    <ACECRLContactPhone>770-852-6829</ACECRLContactPhone>
+    <ACECRLReasonCode />
+    <ACECRLMultiCargoDispositions>false</ACECRLMultiCargoDispositions>
+    <ACECRLDISIndicator>false</ACECRLDISIndicator>
+    <ACECRLSplitShipment>false</ACECRLSplitShipment>
+    <BondedWarehouseFirmsCode xml:space="preserve">    </BondedWarehouseFirmsCode>
+    <ACEPGAPriorNoticeEnvelopeNumber xml:space="preserve">                    </ACEPGAPriorNoticeEnvelopeNumber>
+    <ACEPGAPriorNoticeActionCode xml:space="preserve"> </ACEPGAPriorNoticeActionCode>
+    <DEF_MFGProfileID>16728</DEF_MFGProfileID>
+    <SplitShipmentReleaseCode xml:space="preserve"> </SplitShipmentReleaseCode>
+    <DEF_BYProfileID>0</DEF_BYProfileID>
+    <DEF_BYID xml:space="preserve">            </DEF_BYID>
+    <DEF_PGAInspection_LocationCode xml:space="preserve">    </DEF_PGAInspection_LocationCode>
+    <DEF_PGAInspection_Location />
+    <BondTypeCode1 xml:space="preserve"> </BondTypeCode1>
+    <BondAmount1>0.0000</BondAmount1>
+    <BondAcctNum1 xml:space="preserve">          </BondAcctNum1>
+    <SuretyCode1 xml:space="preserve">   </SuretyCode1>
+    <SendAsPlannedPort>true</SendAsPlannedPort>
+    <isRDU>false</isRDU>
+    <isOneStep>false</isOneStep>
+    <CBPSetPortOfEntry>false</CBPSetPortOfEntry>
+    <CBPSetVesselName>false</CBPSetVesselName>
+    <CBPSetVFTMnfstNum>false</CBPSetVFTMnfstNum>
+    <CBPSetImpDate>false</CBPSetImpDate>
+    <CBPSetEstDateArrvl>false</CBPSetEstDateArrvl>
+    <CBPSetPortUnlading>false</CBPSetPortUnlading>
+  </EntHeader>
+  <EntLinCons>
+    <ServerID>1</ServerID>
+    <EntLinConsID>134157</EntLinConsID>
+    <EntLinID>287044</EntLinID>
+    <Name>CAMPBELL SALES GROUP INC</Name>
+    <AddrLin1>2118 MERCANTILE DR</AddrLin1>
+    <AddrLin2 />
+    <City>LELAND               </City>
+    <State>NC</State>
+    <ZIP>28451     </ZIP>
+  </EntLinCons>
+  <EntLinCons>
+    <ServerID>1</ServerID>
+    <EntLinConsID>134158</EntLinConsID>
+    <EntLinID>287045</EntLinID>
+    <Name>CAMPBELL SALES GROUP INC</Name>
+    <AddrLin1>2118 MERCANTILE DR</AddrLin1>
+    <AddrLin2 />
+    <City>LELAND               </City>
+    <State>NC</State>
+    <ZIP>28451     </ZIP>
+  </EntLinCons>
+  <EntLinEntity>
+    <ServerID>1</ServerID>
+    <EntLinID>287045</EntLinID>
+    <EntLinEntityID>268498</EntLinEntityID>
+    <EntityCode>MF</EntityCode>
+    <Name>FOSHAN SHUNDE DONGMIN FURNITURE</Name>
+    <IDQualifier>EI</IDQualifier>
+    <IDValue>CNFOSSHUFOS</IDValue>
+    <City>FOSHAN</City>
+    <CountrySubCode>GUA</CountrySubCode>
+    <Country>CN</Country>
+    <PostalCode />
+    <EntityProfileID>16728</EntityProfileID>
+  </EntLinEntity>
+  <EntLinEntity>
+    <ServerID>1</ServerID>
+    <EntLinID>287045</EntLinID>
+    <EntLinEntityID>268497</EntLinEntityID>
+    <EntityCode>CN</EntityCode>
+    <Name>CAMPBELL SALES GROUP INC</Name>
+    <IDQualifier>EI</IDQualifier>
+    <IDValue>86-105576800</IDValue>
+    <City>LELAND</City>
+    <CountrySubCode>NC</CountrySubCode>
+    <Country>US</Country>
+    <PostalCode>28451</PostalCode>
+    <EntityProfileID>10494</EntityProfileID>
+  </EntLinEntity>
+  <EntLinEntity>
+    <ServerID>1</ServerID>
+    <EntLinID>287044</EntLinID>
+    <EntLinEntityID>268496</EntLinEntityID>
+    <EntityCode>MF</EntityCode>
+    <Name>FOSHAN SHUNDE DONGMIN FURNITURE</Name>
+    <IDQualifier>EI</IDQualifier>
+    <IDValue>CNFOSSHUFOS</IDValue>
+    <City>FOSHAN</City>
+    <CountrySubCode>GUA</CountrySubCode>
+    <Country>CN</Country>
+    <PostalCode />
+    <EntityProfileID>16728</EntityProfileID>
+  </EntLinEntity>
+  <EntLinEntity>
+    <ServerID>1</ServerID>
+    <EntLinID>287044</EntLinID>
+    <EntLinEntityID>268495</EntLinEntityID>
+    <EntityCode>CN</EntityCode>
+    <Name>CAMPBELL SALES GROUP INC</Name>
+    <IDQualifier>EI</IDQualifier>
+    <IDValue>86-105576800</IDValue>
+    <City>LELAND</City>
+    <CountrySubCode>NC</CountrySubCode>
+    <Country>US</Country>
+    <PostalCode>28451</PostalCode>
+    <EntityProfileID>10494</EntityProfileID>
+  </EntLinEntity>
+  <EntLinEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntLinEntityID>268498</EntLinEntityID>
+    <EntLinEntityAddressInfoID>280669</EntLinEntityAddressInfoID>
+    <AddressOrder>1</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>SHUNDE</AddressInfo>
+  </EntLinEntityAddressInfo>
+  <EntLinEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntLinEntityID>268498</EntLinEntityID>
+    <EntLinEntityAddressInfoID>280668</EntLinEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>XIANTANG INDUSTRY</AddressInfo>
+  </EntLinEntityAddressInfo>
+  <EntLinEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntLinEntityID>268497</EntLinEntityID>
+    <EntLinEntityAddressInfoID>280667</EntLinEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>2118 MERCANTILE DR</AddressInfo>
+  </EntLinEntityAddressInfo>
+  <EntLinEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntLinEntityID>268496</EntLinEntityID>
+    <EntLinEntityAddressInfoID>280666</EntLinEntityAddressInfoID>
+    <AddressOrder>1</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>SHUNDE</AddressInfo>
+  </EntLinEntityAddressInfo>
+  <EntLinEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntLinEntityID>268496</EntLinEntityID>
+    <EntLinEntityAddressInfoID>280665</EntLinEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>XIANTANG INDUSTRY</AddressInfo>
+  </EntLinEntityAddressInfo>
+  <EntLinEntityAddressInfo>
+    <ServerID>1</ServerID>
+    <EntLinEntityID>268495</EntLinEntityID>
+    <EntLinEntityAddressInfoID>280664</EntLinEntityAddressInfoID>
+    <AddressOrder>0</AddressOrder>
+    <AddressQualifier>15</AddressQualifier>
+    <AddressInfo>2118 MERCANTILE DR</AddressInfo>
+  </EntLinEntityAddressInfo>
+  <EntLines>
+    <ServerID>1</ServerID>
+    <EntLinID>287044</EntLinID>
+    <EntID>116230</EntID>
+    <RelID>0</RelID>
+    <RelLinID>0</RelLinID>
+    <ProfProdID>0</ProfProdID>
+    <CntryOrig>CN</CntryOrig>
+    <ProvOrig xml:space="preserve">  </ProvOrig>
+    <InvValue>1159.2000</InvValue>
+    <Value>1159.0000</Value>
+    <GrossWt>445.00</GrossWt>
+    <ADDSpecDepVal>0.0000</ADDSpecDepVal>
+    <CVDSpecDepVal>0.0000</CVDSpecDepVal>
+    <TransChgs>1.0000</TransChgs>
+    <PortLading>57078</PortLading>
+    <FTZStatus xml:space="preserve"> </FTZStatus>
+    <SoftLumbPermCode xml:space="preserve">   </SoftLumbPermCode>
+    <InvDelim xml:space="preserve">      </InvDelim>
+    <NAFTANetCostInd xml:space="preserve"> </NAFTANetCostInd>
+    <VisaNum xml:space="preserve">         </VisaNum>
+    <TextileCatNum xml:space="preserve">   </TextileCatNum>
+    <VisaQty>0</VisaQty>
+    <VisaUOM xml:space="preserve">   </VisaUOM>
+    <AgrLicNum xml:space="preserve">          </AgrLicNum>
+    <CottonCertNum xml:space="preserve">         </CottonCertNum>
+    <LumbPermNum xml:space="preserve">         </LumbPermNum>
+    <TreatedWdPck xml:space="preserve"> </TreatedWdPck>
+    <CdnExciseEntNum xml:space="preserve">      </CdnExciseEntNum>
+    <GenSalesTaxNum xml:space="preserve">         </GenSalesTaxNum>
+    <CVDDuty>0.0000</CVDDuty>
+    <CVDCaseNum xml:space="preserve">             </CVDCaseNum>
+    <ADDCaseNum xml:space="preserve">             </ADDCaseNum>
+    <ADDDuty>0.0000</ADDDuty>
+    <MfgID>CNFOSSHUFOS    </MfgID>
+    <IRSTax>0.0000</IRSTax>
+    <CVDDepRate>0.00</CVDDepRate>
+    <ADDDepRate>0.00</ADDDepRate>
+    <CVDBondInd>false</CVDBondInd>
+    <ADDBondInd>false</ADDBondInd>
+    <MPFRate>0.00346400</MPFRate>
+    <MPFAmount>4.0100</MPFAmount>
+    <PctOfTot>0.075937</PctOfTot>
+    <FrtDeduction>0.0000</FrtDeduction>
+    <SDDeduction>0.0000</SDDeduction>
+    <BrkDeduction>0.0000</BrkDeduction>
+    <OthDeduction>0.0000</OthDeduction>
+    <DtyDeductionRate>0.000000</DtyDeductionRate>
+    <Description>ARTICLE OF CHINA,US NTE 20(OO)</Description>
+    <HMFRate>0.00125000</HMFRate>
+    <HMFAmount>1.4500</HMFAmount>
+    <UltConsNum>86-105576800</UltConsNum>
+    <CanExpCertNum xml:space="preserve">        </CanExpCertNum>
+    <OthXDeduction>0.0000</OthXDeduction>
+    <NoMPF>false</NoMPF>
+    <OthInvNum />
+    <CBTPACertNum xml:space="preserve">         </CBTPACertNum>
+    <WoolLicNum xml:space="preserve">         </WoolLicNum>
+    <MiscPermNum xml:space="preserve">          </MiscPermNum>
+    <FTZQty>0.00</FTZQty>
+    <CBPLineNum>1</CBPLineNum>
+    <PrefTarTreatment xml:space="preserve">     </PrefTarTreatment>
+    <CI_SupplierID />
+    <CI_InvNum />
+    <CI_LineNum>0</CI_LineNum>
+    <CI_Qty>0.0000</CI_Qty>
+    <CI_UOM xml:space="preserve">   </CI_UOM>
+    <CI_UnitPrc>0.0000</CI_UnitPrc>
+    <CI_UnitPrcCrncyCode xml:space="preserve">   </CI_UnitPrcCrncyCode>
+    <CI_UnitPrcBasis>0</CI_UnitPrcBasis>
+    <CI_ExchRate>0.000000</CI_ExchRate>
+    <CI_FixedRateExchInd>false</CI_FixedRateExchInd>
+    <CI_AmountFRGN>0.0000</CI_AmountFRGN>
+    <CI_AmountUSD>0.0000</CI_AmountUSD>
+    <FabricCO1 xml:space="preserve">  </FabricCO1>
+    <FabricCO2 xml:space="preserve">  </FabricCO2>
+    <FabricCO3 xml:space="preserve">  </FabricCO3>
+    <YarnCO1 xml:space="preserve">  </YarnCO1>
+    <YarnCO2 xml:space="preserve">  </YarnCO2>
+    <YarnCO3 xml:space="preserve">  </YarnCO3>
+    <FiberCO1 xml:space="preserve">  </FiberCO1>
+    <FiberCO2 xml:space="preserve">  </FiberCO2>
+    <FiberCO3 xml:space="preserve">  </FiberCO3>
+    <PrefCriteria xml:space="preserve"> </PrefCriteria>
+    <Producer xml:space="preserve"> </Producer>
+    <NumTars>2</NumTars>
+    <isADDCaseNumLocked>false</isADDCaseNumLocked>
+    <isCVDCaseNumLocked>false</isCVDCaseNumLocked>
+    <MfgIDProvided>false</MfgIDProvided>
+    <NumTrios>0</NumTrios>
+    <SortOrder>1</SortOrder>
+    <prodcode xml:space="preserve">                                   </prodcode>
+    <LumbExpPrice>0.0000</LumbExpPrice>
+    <LumbExpCharges>0.0000</LumbExpCharges>
+    <LumbExpDecl xml:space="preserve"> </LumbExpDecl>
+    <FirstSale xml:space="preserve"> </FirstSale>
+    <CottonExemption />
+    <LicenseCertPermitCode />
+    <CensusWarningCode1 />
+    <CensusWarningCode2 />
+    <CensusWarningCode3 />
+    <CensusWarningCode4 />
+    <CensusWarningCode5 />
+    <CensusWarningCode6 />
+    <CensusWarningCode7 />
+    <CensusOverrideCode1 />
+    <CensusOverrideCode2 />
+    <CensusOverrideCode3 />
+    <CensusOverrideCode4 />
+    <CensusOverrideCode5 />
+    <CensusOverrideCode6 />
+    <CensusOverrideCode7 />
+    <ADDOverride>0</ADDOverride>
+    <CVDOverride>0</CVDOverride>
+    <IsDirty>false</IsDirty>
+    <PSCLinReasonCode1 />
+    <PSCLinReasonCode2 />
+    <PSCLinReasonCode3 />
+    <PSCLinReasonCode4 />
+    <PSCLinReasonCode5 />
+    <ADDCVDNonReimbursementID />
+    <ForeignExporterMID />
+    <PONum />
+    <POQty>0.0000</POQty>
+    <POUOM />
+    <ADDCVDNonReimbursementOnFile>false</ADDCVDNonReimbursementOnFile>
+    <QCExempt>false</QCExempt>
+    <RefInvoiceNumber />
+    <RefPONumber />
+    <Reference1 />
+    <Reference2 />
+    <Reference3 />
+    <FTZTarNum xml:space="preserve">            </FTZTarNum>
+    <ValueBeforeOrigDed>1159.2000</ValueBeforeOrigDed>
+    <OrigDeduction>0.0000</OrigDeduction>
+    <MPFLineAmountLessThanCent>false</MPFLineAmountLessThanCent>
+    <ENTRYLINEIMPORTID>0</ENTRYLINEIMPORTID>
+    <SteelAlumExclusion />
+    <KRSteelExportCert />
+  </EntLines>
+  <EntLines>
+    <ServerID>1</ServerID>
+    <EntLinID>287045</EntLinID>
+    <EntID>116230</EntID>
+    <RelID>0</RelID>
+    <RelLinID>0</RelLinID>
+    <ProfProdID>0</ProfProdID>
+    <CntryOrig>CN</CntryOrig>
+    <ProvOrig xml:space="preserve">  </ProvOrig>
+    <InvValue>14106.0400</InvValue>
+    <Value>14106.0000</Value>
+    <GrossWt>5418.00</GrossWt>
+    <ADDSpecDepVal>0.0000</ADDSpecDepVal>
+    <CVDSpecDepVal>0.0000</CVDSpecDepVal>
+    <TransChgs>1.0000</TransChgs>
+    <PortLading>57078</PortLading>
+    <FTZStatus xml:space="preserve"> </FTZStatus>
+    <SoftLumbPermCode xml:space="preserve">   </SoftLumbPermCode>
+    <InvDelim xml:space="preserve">      </InvDelim>
+    <NAFTANetCostInd xml:space="preserve"> </NAFTANetCostInd>
+    <VisaNum xml:space="preserve">         </VisaNum>
+    <TextileCatNum xml:space="preserve">   </TextileCatNum>
+    <VisaQty>0</VisaQty>
+    <VisaUOM xml:space="preserve">   </VisaUOM>
+    <AgrLicNum xml:space="preserve">          </AgrLicNum>
+    <CottonCertNum xml:space="preserve">         </CottonCertNum>
+    <LumbPermNum xml:space="preserve">         </LumbPermNum>
+    <TreatedWdPck xml:space="preserve"> </TreatedWdPck>
+    <CdnExciseEntNum xml:space="preserve">      </CdnExciseEntNum>
+    <GenSalesTaxNum xml:space="preserve">         </GenSalesTaxNum>
+    <CVDDuty>0.0000</CVDDuty>
+    <CVDCaseNum xml:space="preserve">             </CVDCaseNum>
+    <ADDCaseNum xml:space="preserve">             </ADDCaseNum>
+    <ADDDuty>0.0000</ADDDuty>
+    <MfgID>CNFOSSHUFOS    </MfgID>
+    <IRSTax>0.0000</IRSTax>
+    <CVDDepRate>0.00</CVDDepRate>
+    <ADDDepRate>0.00</ADDDepRate>
+    <CVDBondInd>false</CVDBondInd>
+    <ADDBondInd>false</ADDBondInd>
+    <MPFRate>0.00346400</MPFRate>
+    <MPFAmount>48.8600</MPFAmount>
+    <PctOfTot>0.924062</PctOfTot>
+    <FrtDeduction>0.0000</FrtDeduction>
+    <SDDeduction>0.0000</SDDeduction>
+    <BrkDeduction>0.0000</BrkDeduction>
+    <OthDeduction>0.0000</OthDeduction>
+    <DtyDeductionRate>0.000000</DtyDeductionRate>
+    <Description>ARTICLE OF CHINA,US NTE 20(F)</Description>
+    <HMFRate>0.00125000</HMFRate>
+    <HMFAmount>17.6300</HMFAmount>
+    <UltConsNum>86-105576800</UltConsNum>
+    <CanExpCertNum xml:space="preserve">        </CanExpCertNum>
+    <OthXDeduction>0.0000</OthXDeduction>
+    <NoMPF>false</NoMPF>
+    <OthInvNum />
+    <CBTPACertNum xml:space="preserve">         </CBTPACertNum>
+    <WoolLicNum xml:space="preserve">         </WoolLicNum>
+    <MiscPermNum xml:space="preserve">          </MiscPermNum>
+    <FTZQty>0.00</FTZQty>
+    <CBPLineNum>2</CBPLineNum>
+    <PrefTarTreatment xml:space="preserve">     </PrefTarTreatment>
+    <CI_SupplierID />
+    <CI_InvNum />
+    <CI_LineNum>0</CI_LineNum>
+    <CI_Qty>0.0000</CI_Qty>
+    <CI_UOM xml:space="preserve">   </CI_UOM>
+    <CI_UnitPrc>0.0000</CI_UnitPrc>
+    <CI_UnitPrcCrncyCode xml:space="preserve">   </CI_UnitPrcCrncyCode>
+    <CI_UnitPrcBasis>0</CI_UnitPrcBasis>
+    <CI_ExchRate>0.000000</CI_ExchRate>
+    <CI_FixedRateExchInd>false</CI_FixedRateExchInd>
+    <CI_AmountFRGN>0.0000</CI_AmountFRGN>
+    <CI_AmountUSD>0.0000</CI_AmountUSD>
+    <FabricCO1 xml:space="preserve">  </FabricCO1>
+    <FabricCO2 xml:space="preserve">  </FabricCO2>
+    <FabricCO3 xml:space="preserve">  </FabricCO3>
+    <YarnCO1 xml:space="preserve">  </YarnCO1>
+    <YarnCO2 xml:space="preserve">  </YarnCO2>
+    <YarnCO3 xml:space="preserve">  </YarnCO3>
+    <FiberCO1 xml:space="preserve">  </FiberCO1>
+    <FiberCO2 xml:space="preserve">  </FiberCO2>
+    <FiberCO3 xml:space="preserve">  </FiberCO3>
+    <PrefCriteria xml:space="preserve"> </PrefCriteria>
+    <Producer xml:space="preserve"> </Producer>
+    <NumTars>2</NumTars>
+    <isADDCaseNumLocked>false</isADDCaseNumLocked>
+    <isCVDCaseNumLocked>false</isCVDCaseNumLocked>
+    <MfgIDProvided>false</MfgIDProvided>
+    <NumTrios>0</NumTrios>
+    <SortOrder>2</SortOrder>
+    <prodcode xml:space="preserve">                                   </prodcode>
+    <LumbExpPrice>0.0000</LumbExpPrice>
+    <LumbExpCharges>0.0000</LumbExpCharges>
+    <LumbExpDecl xml:space="preserve"> </LumbExpDecl>
+    <FirstSale xml:space="preserve"> </FirstSale>
+    <CottonExemption />
+    <LicenseCertPermitCode />
+    <CensusWarningCode1 />
+    <CensusWarningCode2 />
+    <CensusWarningCode3 />
+    <CensusWarningCode4 />
+    <CensusWarningCode5 />
+    <CensusWarningCode6 />
+    <CensusWarningCode7 />
+    <CensusOverrideCode1 />
+    <CensusOverrideCode2 />
+    <CensusOverrideCode3 />
+    <CensusOverrideCode4 />
+    <CensusOverrideCode5 />
+    <CensusOverrideCode6 />
+    <CensusOverrideCode7 />
+    <ADDOverride>0</ADDOverride>
+    <CVDOverride>0</CVDOverride>
+    <IsDirty>false</IsDirty>
+    <PSCLinReasonCode1 />
+    <PSCLinReasonCode2 />
+    <PSCLinReasonCode3 />
+    <PSCLinReasonCode4 />
+    <PSCLinReasonCode5 />
+    <ADDCVDNonReimbursementID />
+    <ForeignExporterMID />
+    <PONum />
+    <POQty>0.0000</POQty>
+    <POUOM />
+    <ADDCVDNonReimbursementOnFile>false</ADDCVDNonReimbursementOnFile>
+    <QCExempt>false</QCExempt>
+    <RefInvoiceNumber />
+    <RefPONumber />
+    <Reference1 />
+    <Reference2 />
+    <Reference3 />
+    <FTZTarNum xml:space="preserve">            </FTZTarNum>
+    <ValueBeforeOrigDed>14106.0400</ValueBeforeOrigDed>
+    <OrigDeduction>0.0000</OrigDeduction>
+    <MPFLineAmountLessThanCent>false</MPFLineAmountLessThanCent>
+    <ENTRYLINEIMPORTID>0</ENTRYLINEIMPORTID>
+    <SteelAlumExclusion />
+    <KRSteelExportCert />
+  </EntLines>
+  <EntLinTarNums>
+    <ServerID>1</ServerID>
+    <EntLinTarNumID>315543</EntLinTarNumID>
+    <EntLinID>287045</EntLinID>
+    <TarNum>9401.61.6011</TarNum>
+    <Description xml:space="preserve">                              </Description>
+    <Duty>0.0000</Duty>
+    <Qty1>88.00</Qty1>
+    <UOM1>NO </UOM1>
+    <Qty2>0.00</Qty2>
+    <UOM2 xml:space="preserve">   </UOM2>
+    <Qty3>0.00</Qty3>
+    <UOM3 xml:space="preserve">   </UOM3>
+    <ExpCntry>CN</ExpCntry>
+    <ExpDate>2019-08-25T00:00:00-04:00</ExpDate>
+    <RelPartyInd>N</RelPartyInd>
+    <SPIPrimary xml:space="preserve"> </SPIPrimary>
+    <SPISecondary xml:space="preserve">  </SPISecondary>
+    <SPICntry xml:space="preserve">  </SPICntry>
+    <InvValue>14106.0400</InvValue>
+    <Value>14106.0000</Value>
+    <RateAdValorem>0.00000000</RateAdValorem>
+    <RateSpecific>0.00000000</RateSpecific>
+    <RateOther>0.00000000</RateOther>
+    <DutyCompCode>0</DutyCompCode>
+    <DutyCompU1>NO </DutyCompU1>
+    <DutyCompU2 xml:space="preserve">   </DutyCompU2>
+    <DutyCompU3 xml:space="preserve">   </DutyCompU3>
+    <DutyOverride>false</DutyOverride>
+    <UseCol2Rates>false</UseCol2Rates>
+    <NoExciseTaxes>false</NoExciseTaxes>
+    <DT0>false</DT0>
+    <FC0>false</FC0>
+    <FD0>false</FD0>
+    <FW0>false</FW0>
+    <TL0>false</TL0>
+    <DutyRateStr>FREE</DutyRateStr>
+    <FRGNInvValue>14106.0400</FRGNInvValue>
+    <CRNCInvValue>USD</CRNCInvValue>
+    <EXCHInvValue>0.000000</EXCHInvValue>
+    <OGACodes xml:space="preserve">               </OGACodes>
+    <ExciseTaxRate>0.00000000</ExciseTaxRate>
+    <NoUserFee>false</NoUserFee>
+    <TarPos>2</TarPos>
+    <InvQty1>88.00</InvQty1>
+    <InvQty2>0.00</InvQty2>
+    <InvQty3>0.00</InvQty3>
+    <DutyOverrideRate>false</DutyOverrideRate>
+    <DutyOverrideRatePercentage>0.00</DutyOverrideRatePercentage>
+    <DomesticWhPrice>0.0000</DomesticWhPrice>
+    <DWPExciseTaxPct>0.00000000</DWPExciseTaxPct>
+    <TobaccoAltQty>0.00</TobaccoAltQty>
+    <TobaccoAltUOM xml:space="preserve">   </TobaccoAltUOM>
+    <OI_Desc>ARTICLE OF CHINA,US NTE 20(F)                                         </OI_Desc>
+    <PGACodes>EP7                                                         </PGACodes>
+    <ValueBeforeOrigDed>0.0000</ValueBeforeOrigDed>
+    <DutyBeforeOrigDed>0.0000</DutyBeforeOrigDed>
+  </EntLinTarNums>
+  <EntLinTarNums>
+    <ServerID>1</ServerID>
+    <EntLinTarNumID>315542</EntLinTarNumID>
+    <EntLinID>287045</EntLinID>
+    <TarNum>9903.88.03  </TarNum>
+    <Description xml:space="preserve">                              </Description>
+    <Duty>3526.5000</Duty>
+    <Qty1>0.00</Qty1>
+    <UOM1 xml:space="preserve">   </UOM1>
+    <Qty2>0.00</Qty2>
+    <UOM2 xml:space="preserve">   </UOM2>
+    <Qty3>0.00</Qty3>
+    <UOM3 xml:space="preserve">   </UOM3>
+    <ExpCntry>CN</ExpCntry>
+    <ExpDate>2019-08-25T00:00:00-04:00</ExpDate>
+    <RelPartyInd>N</RelPartyInd>
+    <SPIPrimary xml:space="preserve"> </SPIPrimary>
+    <SPISecondary xml:space="preserve">  </SPISecondary>
+    <SPICntry xml:space="preserve">  </SPICntry>
+    <InvValue>0.0000</InvValue>
+    <Value>0.0000</Value>
+    <RateAdValorem>0.25000000</RateAdValorem>
+    <RateSpecific>0.00000000</RateSpecific>
+    <RateOther>0.00000000</RateOther>
+    <DutyCompCode>7</DutyCompCode>
+    <DutyCompU1 xml:space="preserve">   </DutyCompU1>
+    <DutyCompU2 xml:space="preserve">   </DutyCompU2>
+    <DutyCompU3 xml:space="preserve">   </DutyCompU3>
+    <DutyOverride>false</DutyOverride>
+    <UseCol2Rates>false</UseCol2Rates>
+    <NoExciseTaxes>false</NoExciseTaxes>
+    <DT0>false</DT0>
+    <FC0>false</FC0>
+    <FD0>false</FD0>
+    <FW0>false</FW0>
+    <TL0>false</TL0>
+    <DutyRateStr>25.00 %</DutyRateStr>
+    <FRGNInvValue>0.0000</FRGNInvValue>
+    <CRNCInvValue>USD</CRNCInvValue>
+    <EXCHInvValue>0.000000</EXCHInvValue>
+    <OGACodes xml:space="preserve">               </OGACodes>
+    <ExciseTaxRate>0.00000000</ExciseTaxRate>
+    <NoUserFee>false</NoUserFee>
+    <TarPos>1</TarPos>
+    <InvQty1>0.00</InvQty1>
+    <InvQty2>0.00</InvQty2>
+    <InvQty3>0.00</InvQty3>
+    <DutyOverrideRate>false</DutyOverrideRate>
+    <DutyOverrideRatePercentage>0.00</DutyOverrideRatePercentage>
+    <DomesticWhPrice>0.0000</DomesticWhPrice>
+    <DWPExciseTaxPct>0.00000000</DWPExciseTaxPct>
+    <TobaccoAltQty>0.00</TobaccoAltQty>
+    <TobaccoAltUOM xml:space="preserve">   </TobaccoAltUOM>
+    <OI_Desc xml:space="preserve">                                                                      </OI_Desc>
+    <PGACodes xml:space="preserve">                                                            </PGACodes>
+    <ValueBeforeOrigDed>0.0000</ValueBeforeOrigDed>
+    <DutyBeforeOrigDed>0.0000</DutyBeforeOrigDed>
+  </EntLinTarNums>
+  <EntLinTarNums>
+    <ServerID>1</ServerID>
+    <EntLinTarNumID>315541</EntLinTarNumID>
+    <EntLinID>287044</EntLinID>
+    <TarNum>9401.61.4011</TarNum>
+    <Description xml:space="preserve">                              </Description>
+    <Duty>0.0000</Duty>
+    <Qty1>6.00</Qty1>
+    <UOM1>NO </UOM1>
+    <Qty2>0.00</Qty2>
+    <UOM2 xml:space="preserve">   </UOM2>
+    <Qty3>0.00</Qty3>
+    <UOM3 xml:space="preserve">   </UOM3>
+    <ExpCntry>CN</ExpCntry>
+    <ExpDate>2019-08-25T00:00:00-04:00</ExpDate>
+    <RelPartyInd>N</RelPartyInd>
+    <SPIPrimary xml:space="preserve"> </SPIPrimary>
+    <SPISecondary xml:space="preserve">  </SPISecondary>
+    <SPICntry xml:space="preserve">  </SPICntry>
+    <InvValue>1159.2000</InvValue>
+    <Value>1159.0000</Value>
+    <RateAdValorem>0.00000000</RateAdValorem>
+    <RateSpecific>0.00000000</RateSpecific>
+    <RateOther>0.00000000</RateOther>
+    <DutyCompCode>0</DutyCompCode>
+    <DutyCompU1>NO </DutyCompU1>
+    <DutyCompU2 xml:space="preserve">   </DutyCompU2>
+    <DutyCompU3 xml:space="preserve">   </DutyCompU3>
+    <DutyOverride>false</DutyOverride>
+    <UseCol2Rates>false</UseCol2Rates>
+    <NoExciseTaxes>false</NoExciseTaxes>
+    <DT0>false</DT0>
+    <FC0>false</FC0>
+    <FD0>false</FD0>
+    <FW0>false</FW0>
+    <TL0>false</TL0>
+    <DutyRateStr>FREE</DutyRateStr>
+    <FRGNInvValue>1159.2000</FRGNInvValue>
+    <CRNCInvValue>USD</CRNCInvValue>
+    <EXCHInvValue>0.000000</EXCHInvValue>
+    <OGACodes xml:space="preserve">               </OGACodes>
+    <ExciseTaxRate>0.00000000</ExciseTaxRate>
+    <NoUserFee>false</NoUserFee>
+    <TarPos>2</TarPos>
+    <InvQty1>6.00</InvQty1>
+    <InvQty2>0.00</InvQty2>
+    <InvQty3>0.00</InvQty3>
+    <DutyOverrideRate>false</DutyOverrideRate>
+    <DutyOverrideRatePercentage>0.00</DutyOverrideRatePercentage>
+    <DomesticWhPrice>0.0000</DomesticWhPrice>
+    <DWPExciseTaxPct>0.00000000</DWPExciseTaxPct>
+    <TobaccoAltQty>0.00</TobaccoAltQty>
+    <TobaccoAltUOM xml:space="preserve">   </TobaccoAltUOM>
+    <OI_Desc>ARTICLE OF CHINA,US NTE 20(OO)                                        </OI_Desc>
+    <PGACodes>EP7                                                         </PGACodes>
+    <ValueBeforeOrigDed>0.0000</ValueBeforeOrigDed>
+    <DutyBeforeOrigDed>0.0000</DutyBeforeOrigDed>
+  </EntLinTarNums>
+  <EntLinTarNums>
+    <ServerID>1</ServerID>
+    <EntLinTarNumID>315540</EntLinTarNumID>
+    <EntLinID>287044</EntLinID>
+    <TarNum>9903.88.36  </TarNum>
+    <Description xml:space="preserve">                              </Description>
+    <Duty>0.0000</Duty>
+    <Qty1>0.00</Qty1>
+    <UOM1 xml:space="preserve">   </UOM1>
+    <Qty2>0.00</Qty2>
+    <UOM2 xml:space="preserve">   </UOM2>
+    <Qty3>0.00</Qty3>
+    <UOM3 xml:space="preserve">   </UOM3>
+    <ExpCntry>CN</ExpCntry>
+    <ExpDate>2019-08-25T00:00:00-04:00</ExpDate>
+    <RelPartyInd>N</RelPartyInd>
+    <SPIPrimary xml:space="preserve"> </SPIPrimary>
+    <SPISecondary xml:space="preserve">  </SPISecondary>
+    <SPICntry xml:space="preserve">  </SPICntry>
+    <InvValue>0.0000</InvValue>
+    <Value>0.0000</Value>
+    <RateAdValorem>0.00000000</RateAdValorem>
+    <RateSpecific>0.00000000</RateSpecific>
+    <RateOther>0.00000000</RateOther>
+    <DutyCompCode>X</DutyCompCode>
+    <DutyCompU1 xml:space="preserve">   </DutyCompU1>
+    <DutyCompU2 xml:space="preserve">   </DutyCompU2>
+    <DutyCompU3 xml:space="preserve">   </DutyCompU3>
+    <DutyOverride>false</DutyOverride>
+    <UseCol2Rates>false</UseCol2Rates>
+    <NoExciseTaxes>false</NoExciseTaxes>
+    <DT0>false</DT0>
+    <FC0>false</FC0>
+    <FD0>false</FD0>
+    <FW0>false</FW0>
+    <TL0>false</TL0>
+    <DutyRateStr />
+    <FRGNInvValue>0.0000</FRGNInvValue>
+    <CRNCInvValue xml:space="preserve">   </CRNCInvValue>
+    <EXCHInvValue>0.000000</EXCHInvValue>
+    <OGACodes xml:space="preserve">               </OGACodes>
+    <ExciseTaxRate>0.00000000</ExciseTaxRate>
+    <NoUserFee>false</NoUserFee>
+    <TarPos>0</TarPos>
+    <InvQty1>0.00</InvQty1>
+    <InvQty2>0.00</InvQty2>
+    <InvQty3>0.00</InvQty3>
+    <DutyOverrideRate>false</DutyOverrideRate>
+    <DutyOverrideRatePercentage>0.00</DutyOverrideRatePercentage>
+    <DomesticWhPrice>0.0000</DomesticWhPrice>
+    <DWPExciseTaxPct>0.00000000</DWPExciseTaxPct>
+    <TobaccoAltQty>0.00</TobaccoAltQty>
+    <TobaccoAltUOM xml:space="preserve">   </TobaccoAltUOM>
+    <OI_Desc xml:space="preserve">                                                                      </OI_Desc>
+    <PGACodes xml:space="preserve">                                                            </PGACodes>
+    <ValueBeforeOrigDed>0.0000</ValueBeforeOrigDed>
+    <DutyBeforeOrigDed>0.0000</DutyBeforeOrigDed>
+  </EntLinTarNums>
+  <EntUserFeesSum>
+    <ServerID>1</ServerID>
+    <EntUserFeesSumID>302596</EntUserFeesSumID>
+    <EntID>116230</EntID>
+    <ClassCode>499</ClassCode>
+    <TotAmt>52.8700</TotAmt>
+  </EntUserFeesSum>
+  <EntUserFeesSum>
+    <ServerID>1</ServerID>
+    <EntUserFeesSumID>307361</EntUserFeesSumID>
+    <EntID>116230</EntID>
+    <ClassCode>501</ClassCode>
+    <TotAmt>19.0800</TotAmt>
+  </EntUserFeesSum>
+  <PGADocDecl>
+    <ServerID>1</ServerID>
+    <PGADocDeclID>13024</PGADocDeclID>
+    <PGAProductID>29777</PGAProductID>
+    <PGADocDeclSecID>351799</PGADocDeclSecID>
+    <SignedDoc />
+    <DocumentIdentifier />
+    <ConformanceDeclaration />
+    <EntityRoleCode>CI</EntityRoleCode>
+    <DeclarationCode>EP4</DeclarationCode>
+    <DeclarationCertification>1</DeclarationCertification>
+    <InvoiceNumber />
+    <ComplianceDescription />
+    <PGAGroupingSecID>0</PGAGroupingSecID>
+    <SalePrice>0.0000</SalePrice>
+    <Quantity>0.00</Quantity>
+    <RateType>0</RateType>
+  </PGADocDecl>
+  <PGADocDecl>
+    <ServerID>1</ServerID>
+    <PGADocDeclID>13025</PGADocDeclID>
+    <PGAProductID>29778</PGAProductID>
+    <PGADocDeclSecID>351801</PGADocDeclSecID>
+    <SignedDoc />
+    <DocumentIdentifier />
+    <ConformanceDeclaration />
+    <EntityRoleCode>CI</EntityRoleCode>
+    <DeclarationCode>EP4</DeclarationCode>
+    <DeclarationCertification>1</DeclarationCertification>
+    <InvoiceNumber />
+    <ComplianceDescription />
+    <PGAGroupingSecID>0</PGAGroupingSecID>
+    <SalePrice>0.0000</SalePrice>
+    <Quantity>0.00</Quantity>
+    <RateType>0</RateType>
+  </PGADocDecl>
+  <PGAIndividual>
+    <ServerID>1</ServerID>
+    <PGAIndividualID>82981</PGAIndividualID>
+    <PGAProductID>29777</PGAProductID>
+    <PGAIndividualSecID>351800</PGAIndividualSecID>
+    <PGAEntitySecID>0</PGAEntitySecID>
+    <PGADocDeclSecID>351799</PGADocDeclSecID>
+    <PGAInspectionSecID>0</PGAInspectionSecID>
+    <IndividualQualifier>CI</IndividualQualifier>
+    <Name>BECKY HOWARD</Name>
+    <Phone>(910) 794-7904</Phone>
+    <EmailOrFax>BHOWARD@LEATHERITALIAUSA.COM</EmailOrFax>
+  </PGAIndividual>
+  <PGAIndividual>
+    <ServerID>1</ServerID>
+    <PGAIndividualID>82982</PGAIndividualID>
+    <PGAProductID>29778</PGAProductID>
+    <PGAIndividualSecID>351802</PGAIndividualSecID>
+    <PGAEntitySecID>0</PGAEntitySecID>
+    <PGADocDeclSecID>351801</PGADocDeclSecID>
+    <PGAInspectionSecID>0</PGAInspectionSecID>
+    <IndividualQualifier>CI</IndividualQualifier>
+    <Name>BECKY HOWARD</Name>
+    <Phone>(910) 794-7904</Phone>
+    <EmailOrFax>BHOWARD@LEATHERITALIAUSA.COM</EmailOrFax>
+  </PGAIndividual>
+  <PGALine>
+    <ServerID>1</ServerID>
+    <PGALineID>47839</PGALineID>
+    <EntLinTarNumID>315541</EntLinTarNumID>
+    <PGALineNum>1</PGALineNum>
+    <AgencyCode>EPA</AgencyCode>
+    <AgencyProgramCode>TS1</AgencyProgramCode>
+    <AgencyProcessingCode />
+    <ElectronicImageSubmitted>false</ElectronicImageSubmitted>
+    <ConfidentialIndicator>false</ConfidentialIndicator>
+    <ProductIDQualifier />
+    <ProductID />
+    <IntendedUseCode />
+    <IntendedUseDesc />
+    <Disclaimer xml:space="preserve"> </Disclaimer>
+    <ParentType>EN</ParentType>
+    <ACEPNLineID>0</ACEPNLineID>
+    <OrigPGALineID>0</OrigPGALineID>
+    <isHybrid>false</isHybrid>
+  </PGALine>
+  <PGALine>
+    <ServerID>1</ServerID>
+    <PGALineID>47840</PGALineID>
+    <EntLinTarNumID>315543</EntLinTarNumID>
+    <PGALineNum>1</PGALineNum>
+    <AgencyCode>EPA</AgencyCode>
+    <AgencyProgramCode>TS1</AgencyProgramCode>
+    <AgencyProcessingCode />
+    <ElectronicImageSubmitted>false</ElectronicImageSubmitted>
+    <ConfidentialIndicator>false</ConfidentialIndicator>
+    <ProductIDQualifier />
+    <ProductID />
+    <IntendedUseCode />
+    <IntendedUseDesc />
+    <Disclaimer xml:space="preserve"> </Disclaimer>
+    <ParentType>EN</ParentType>
+    <ACEPNLineID>0</ACEPNLineID>
+    <OrigPGALineID>0</OrigPGALineID>
+    <isHybrid>false</isHybrid>
+  </PGALine>
+  <PGAProduct>
+    <ServerID>1</ServerID>
+    <PGAProductID>29777</PGAProductID>
+    <PGALineID>47839</PGALineID>
+    <ItemType>P</ItemType>
+  </PGAProduct>
+  <PGAProduct>
+    <ServerID>1</ServerID>
+    <PGAProductID>29778</PGAProductID>
+    <PGALineID>47840</PGALineID>
+    <ItemType>P</ItemType>
+  </PGAProduct>
+</dsdEntry>
